@@ -1,5 +1,3 @@
-ub Actions crée automatiquement une exécution parallèle pour chaque combinaison définie dans la matrice.
-
 name: Shell commands
 on: [push]
 jobs:
